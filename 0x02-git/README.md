@@ -1,0 +1,1 @@
+This is a not so empty file in the **0X02-git** directory
